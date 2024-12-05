@@ -54,15 +54,15 @@ function Index() {
                 <div id="playbar">
                     <div className="logos">
                         <div><img src={img5} alt=""></img></div>
-                        <div>Home</div>
+                        <div>Create Playlist</div>
                     </div>
                     <div className="logos">
                         <div><img src={img6} alt=""></img></div>
-                        <div>Search</div>
+                        <div>Liked Songs</div>
                     </div>
                     <div className="logos">
                         <div><img src={img7} alt=""></img></div>
-                        <div>Your library</div>
+                        <div>Your Episodes</div>
                     </div>
                 </div>
                 <div id="favbar">
@@ -91,7 +91,7 @@ function Index() {
                 <div id="favlist">
                     <div className="list1">
                         <div><img src={img11} alt=""  height="100%"></img></div>
-                        <div id="text11">Likked Song</div>
+                        <div id="text11">Liked Songs</div>
                     </div>
                     <div  className="list1">
                         <div><img src={img12} alt="" height="80%"></img></div>
